@@ -1,0 +1,32 @@
+{
+  "name": "hh-service-challenge",
+  "version": "1.2.0",
+  "description": "Node app for HH Service Challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint . --ext .js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.3",
+    "@babel/register": "^7.24.6",
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jest": "^24.4.0",
+    "jest": "^27.0.6",
+    "mocha": "^10.7.0",
+    "supertest": "^7.0.0"
+  }
+}

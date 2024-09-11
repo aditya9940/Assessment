@@ -1,0 +1,109 @@
+[
+  {
+    "1": {
+      "label": "root",
+      "children": [
+        {
+          "2": {
+            "label": "ant",
+            "children": []
+          }
+        },
+        {
+          "3": {
+            "label": "bear",
+            "children": [
+              {
+                "4": {
+                  "label": "cat",
+                  "children": [
+                    {
+                      "8": {
+                        "label": "Ant's Grand child",
+                        "children": [
+                          {
+                            "11": {
+                              "label": "lion",
+                              "children": []
+                            }
+                          },
+                          {
+                            "12": {
+                              "label": "lion",
+                              "children": []
+                            }
+                          },
+                          {
+                            "13": {
+                              "label": "lion",
+                              "children": []
+                            }
+                          },
+                          {
+                            "15": {
+                              "label": "lion",
+                              "children": []
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "14": {
+                        "label": "Ant's Grand child",
+                        "children": []
+                      }
+                    },
+                    {
+                      "16": {
+                        "label": "Ant's Grand child",
+                        "children": []
+                      }
+                    },
+                    {
+                      "17": {
+                        "label": "Ant's Grand child",
+                        "children": []
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "5": {
+                  "label": "dog",
+                  "children": [
+                    {
+                      "6": {
+                        "label": "elephant",
+                        "children": []
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "9": {
+                  "label": "lion",
+                  "children": []
+                }
+              },
+              {
+                "10": {
+                  "label": "lion",
+                  "children": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "7": {
+            "label": "frog",
+            "children": []
+          }
+        }
+      ]
+    }
+  }
+]
