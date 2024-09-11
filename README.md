@@ -1,4 +1,4 @@
-# Hinge Health Tree Service
+#Tree Service
 
 ## Setup
 
