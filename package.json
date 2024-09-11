@@ -1,7 +1,7 @@
 {
-  "name": "hh-service-challenge",
+  "name": "Tree API",
   "version": "1.2.0",
-  "description": "Node app for HH Service Challenge",
+  "description": "Node app for Tree API",
   "main": "index.js",
   "type": "module",
   "scripts": {
